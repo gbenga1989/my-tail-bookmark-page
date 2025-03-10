@@ -791,7 +791,7 @@ video {
 
 @media(min-width: 1020px){
   .bg-hero{
-    width:2000px;
+    width:500px;
     height:300px;
     left:30%;
     position: absolute;
