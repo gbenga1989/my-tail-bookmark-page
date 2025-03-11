@@ -24,3 +24,10 @@ function onTabClick(e){
   .getElementsByClassName(classString)[0]
   .classList.remove('hidden')
 }
+
+
+
+
+
+
+
